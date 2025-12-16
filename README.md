@@ -11,6 +11,7 @@ Desde cedo, fui cativada pelo potencial criativo da web, participando das primei
 ### Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carolmeireles&repo=pizzaria&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carolmeireles&repo=e-food&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens utilizadas
 
